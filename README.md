@@ -52,7 +52,7 @@ This information is available in 02 (two) different panoramas: **National** and 
 It presents the information cited for Brazil and all its states.  
 
 #### 🌍 WORLD PANORAMA
-It presents the information mentioned for all cases in the world and also presents the **RANKING COVID - TOP 20**, which brings the 20 (twenty) countries with the highest number of cases of the new coronavirus.
+It presents the information mentioned for all cases in the world and also presents the **BIGGEST CASES**, which brings the 20 (twenty) countries with the highest number of cases of the new coronavirus.
 
 ## 🧱 How to contribute?
 This project was my own initiative to compose my development portfolio. If you want to contribute to the project, I will be very grateful, I am starting now in development and any support that helps me to evolve will be very well regarded, even criticism. If you want to contribute, send your Pull Requests and I will be happy to evaluate them, just follow the following steps:
