@@ -225,7 +225,7 @@ class _HomePageState extends ModularState<HomePage, HomeController> {
                               Text(
                                 controller.currentIndex == 0
                                     ? ' PANORAMA ESTADUAL'
-                                    : 'RANKING COVID - TOP 20',
+                                    : 'MAIORES CASOS',
                                 style: _textBoldStyle(
                                     percentSize: 4.5,
                                     max: 20.0,
