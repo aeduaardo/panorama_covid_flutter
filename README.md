@@ -59,7 +59,7 @@ This project was my own initiative to compose my development portfolio. If you w
 
 
 1. Fork this repository.
-2. Access the [config.dart](\lib\app\shared\config.dart) file and make sure that the **LOCAL_STORAGE** variable is set to **true**, because the project has a data file for local tests.  
+2. Access the [config.dart](lib/app/shared/config.dart) file and make sure that the **LOCAL_STORAGE** variable is set to **true**, because the project has a data file for local tests.  
 3. Create a **branch** for your update (git checkout -b feature/feature_name).
 4. Commit (git commit -m "your commit").
 5. Push (git push origin feature/feature_name).
