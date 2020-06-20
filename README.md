@@ -72,7 +72,7 @@ Contact me:
 
 
 ## ⚖️ License
-This project is licensed under the MIT license - see the file [LICENSE.md](LICENSE) and learn more details. 
+This project is licensed under the MIT license - see the file [LICENSE](LICENSE) and learn more details. 
 
 
 # 📲 How do I get the app?
