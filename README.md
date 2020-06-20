@@ -72,7 +72,7 @@ Contact me:
 
 
 ## ⚖️ License
-This project is licensed under the MIT license - see the file [LICENSE.md]() and learn more details. 
+This project is licensed under the MIT license - see the file [LICENSE.md](LICENSE.md) and learn more details. 
 
 
 # 📲 How do I get the app?
@@ -81,4 +81,4 @@ Currently this application is online, but it is not found in the Play Store, bec
 1. Access your device's **Settings**.
 2. Go to **Security** and select **unknown sources**. Selecting this option will allow you to install apps that are outside the Play Store.  
 **Note**: Depending on your device, you may choose to be warned before installing applications that are considered harmful.
-3. Now, just [**DOWNLOAD**](https://bit.ly/PANORAMACOVID19) the .apk and perform the installation.
+3. Now, just [**DOWNLOAD**](https://bit.ly/PANCOVID-19) the .apk and perform the installation.
