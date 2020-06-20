@@ -1,7 +1,7 @@
 class TestData {
   static const nacional = {
     "date": "18/06/2020",
-    "cases": 0,
+    "cases": 10453000,
     "deaths": 47748,
     "recovered": 482102,
     "percentageInfected": 0.47,
