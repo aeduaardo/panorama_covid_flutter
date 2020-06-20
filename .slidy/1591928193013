@@ -1,0 +1,4 @@
+lib/app/modules/home/components/custom_drawer/pages/info_data/info_data_page.dart
+test/app/modules/home/components/custom_drawer/pages/info_data/info_data_page_test.dart
+lib/app/modules/home/components/custom_drawer/pages/info_data/info_data_controller.dart
+test/app/modules/home/components/custom_drawer/pages/info_data/info_data_controller_test.dart
